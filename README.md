@@ -1,21 +1,23 @@
-# 👋 Hi, I'm Dimitrios Psomas
-
-Welcome to my GitHub profile! 🚀  
+# Hello, This Is Dimitrios Psomas
+ 
 I’m passionate about technology, coding, and building projects that solve real problems.
 
 ---
 
 ## 🔭 About Me
 - 🌱 Junior IT Engineer with expertise in **Software Engineering & IT Support**  
-- 💡 Interested in **AI, cloud technologies, and modern web apps**  
-- 🤝 Always open to collaborate on exciting ideas and projects  
+- 💡 Interested in **AI, Web Development, Hardware Troubleshooting, and modern web apps**
+- 🎬 Freelancer Video Editor for **Youtubers, Content Creators and Game Emulators**  
+- 🤝 Always open to collaborate on exciting ideas and projects.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, C, Java, Prolog, Dart 
+- **Languages**: C, Python, JavaScript, Java, Prolog, Dart 
 - **Frameworks**: React, Spring boot
-- **Tools**: Git, Docker, VS Code , Local, 
+- **Databases**: MySQL, Postgresql
+- **Tools**:  VS Code , Local
+- **CMS**: Wordpress
 
 ---
 
