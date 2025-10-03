@@ -16,7 +16,7 @@ I’m passionate about technology, coding, and building projects that solve real
 - **Languages**: C, Python, JavaScript, Java, Prolog, Dart 
 - **Frameworks**: React, Spring boot
 - **Databases**: MySQL, Postgresql
-- **Tools**:  VS Code , Local
+- **Tools**:  VS Code , Local, Adobe Premiere Pro, Adobe After Effects
 - **CMS**: Wordpress
 
 ---
