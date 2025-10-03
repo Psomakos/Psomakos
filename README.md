@@ -6,23 +6,23 @@ I’m passionate about technology, coding, and building projects that solve real
 ---
 
 ## 🔭 About Me
-- 🌱 Currently learning and exploring **web development & open-source projects**  
+- 🌱 Junior IT Engineer with expertise in **Software Engineering & IT Support**  
 - 💡 Interested in **AI, cloud technologies, and modern web apps**  
 - 🤝 Always open to collaborate on exciting ideas and projects  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, C++  
-- **Frameworks**: React, Node.js, Express  
-- **Tools**: Git, Docker, VS Code  
+- **Languages**: Python, JavaScript, C, Java, Prolog, Dart 
+- **Frameworks**: React, Spring boot
+- **Tools**: Git, Docker, VS Code , Local, 
 
 ---
 
 ## 📊 GitHub Stats
 
-![Dimitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitriospsomas&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriospsomas&layout=compact&theme=tokyonight)
+![Dimitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=Psomakos&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psomakos&layout=compact&theme=tokyonight)
 
 ---
 
@@ -33,4 +33,4 @@ I’m passionate about technology, coding, and building projects that solve real
 
 ---
 
-⭐️ From [Dimitrios Psomas](https://github.com/dimitriospsomas)
+⭐️ From [Dimitrios Psomas](https://github.com/Psomakos)
